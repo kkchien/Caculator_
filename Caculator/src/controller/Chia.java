@@ -14,7 +14,7 @@ public class Chia {
 		int a =65;
 		int b = 3;
 		int n = 5;
-		int h = 0;
+		int h = 5;
 		for (int i = 0; i < 5; i++) {
 			int g = 0;
 			if (i == 0)
