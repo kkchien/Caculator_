@@ -13,7 +13,7 @@ public class Chia {
 	public void hackerRaNK() {
 		int a =65;
 		int b = 3;
-		int n = 5;
+		int n = 58898;
 		int h = 5;
 		for (int i = 0; i < 5; i++) {
 			int g = 0;
