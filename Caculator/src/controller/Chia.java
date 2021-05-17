@@ -11,7 +11,7 @@ public class Chia {
 	}
 
 	public void hackerRaNK() {
-		int a = 5;
+		int a =65;
 		int b = 3;
 		int n = 5;
 		int h = 0;
